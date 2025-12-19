@@ -1,4 +1,4 @@
-package src; /**
+/**
  * ES234317-Algorithm and Data Structures
  * Semester Ganjil, 2025/2026
  * Ladder Game
